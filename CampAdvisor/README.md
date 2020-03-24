@@ -35,8 +35,7 @@
 
 <h3> Show Page </h3>
 
-<<<<<<< HEAD
+
 <img src="Capture3.PNG">
-=======
-<img src="/Captures/Capture3.png">
->>>>>>> d8a319eab9882f0de6da29083083d6981f8dcdbd
+
+
