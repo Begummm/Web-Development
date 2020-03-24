@@ -25,7 +25,7 @@
 
 <h3> Landing Page </h3>
 
-<img src="Capture1.png">
+<img src="Capture1.PNG">
 
 
 <h3> Index Page </h3>
