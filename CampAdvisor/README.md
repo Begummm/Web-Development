@@ -25,14 +25,14 @@
 
 <h3> Landing Page </h3>
 
-<img src="/Captures/Capture1.png">
+<img src="Capture1.PNG">
 
 
 <h3> Index Page </h3>
 
-<img src="/Captures/Capture2.png">
+<img src="Capture2.PNG">
 
 
 <h3> Show Page </h3>
 
-<img src="/Captures/Capture3.png">
+<img src="Capture3.PNG">
