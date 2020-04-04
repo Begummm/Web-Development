@@ -1,0 +1,65 @@
+body{
+	background: #f5d4bc;
+	font-family: "Nunito", sans-serif;
+}
+/*#mainNavbar{
+	background: #43210a;
+}*/
+
+#mainNavbar .nav-link{
+	color: white ;
+}
+
+#mainNavbar .nav-link:hover {
+	color: #ff80ff ;
+}
+
+#mainNavbar .navbar-brand{
+	color: white;
+	text-transform: uppercase;
+}
+.custom-toggler.navbar-toggler{
+	border-color: white;
+}
+.custom-toggler .navbar-toggler-icon{
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+h1 {
+	font-weight: 100;
+	font-size:  3rem;
+}
+
+h1,h2 {
+	text-transform: uppercase;
+}
+
+.navbar.scrolled {
+    background: #43210a;
+    transition: background 500ms;
+}
+
+
+@media (max-width: 1200px){
+	h1{
+		font-weight: 100;
+		font-size: 2rem;
+	}
+}
+
+h2 {
+	color: #43210a;
+}
+
+p{
+
+font-weight: 100;
+font-size: 1.125rem;
+color: #43210a;
+line-height: 2.0;
+}
+
+.contents {
+
+	margin-bottom: 100px;
+}
