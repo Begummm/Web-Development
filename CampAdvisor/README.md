@@ -1,7 +1,7 @@
 <h1> CampAdvisor Application Project </h1> 
 
 
-<p> This project aims to apply certain web development technologies by creating a campground advisor application:</p>
+<p> CampAdvisor is a yelp-like application where users having an account can create and review camp grounds.This project aims to apply certain web development technologies:</p>
 
 <ul> 
 <li> HTML 5</li>
